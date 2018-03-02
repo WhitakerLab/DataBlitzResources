@@ -4,6 +4,7 @@ Before you send it out you'll need to update the template with the following inf
 
 * `NAME OF CONFERENCE`
 * `DEADLINE DATE` - when you'd like the slides returned by
+* `NUMBER OF BLITZ PRESENTATIONS` - we recommend 12
 * `DAY` of the data blitz
 * `START TIME` of the data blitz
 * `FINISH TIME` of the data blitz
@@ -18,11 +19,13 @@ Before you send it out you'll need to update the template with the following inf
 
 ### Template email
 
-*SUBJECT: Congratulations on being selected for the **[NAME OF CONFERENCE]** data blitz* | Instructions for participation | DEADLINE `[DEADLINE DATE]`
+*SUBJECT: Congratulations on being selected for the `[NAME OF CONFERENCE]` data blitz | Instructions for participation | DEADLINE `[DEADLINE DATE]`*
 
-Hi everyone!
+Congratulations!
 
-Congratulations on being selected for the `[NAME OF CONFERENCE]` Data Blitz!
+Your abstract has been selected as one of `[NUMBER OF BLITZ PRESENTATIONS]` to feature in the early career researcher data blitz as part of the `[NAME OF CONFERENCE]`!
+
+The data blitz requires you to present a summary of your research **in just two minutes**. It is a really fun session and it will encourage conference participants to come to your poster. Once they're there, you'll have a great opportunity to tell everyone (including the poster judges) about your research.
 
 The first thing to do is **reply to this email** to let me know that you're able to participate. Please do this asap so we can find someone to replace you if needed.
 
