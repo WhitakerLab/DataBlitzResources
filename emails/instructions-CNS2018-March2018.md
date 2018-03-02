@@ -10,9 +10,9 @@ The data blitz requires you to present a summary of your research **in just two 
 
 *The first thing to do is **reply to this email** to let me and Dervila Glynn know that you're able to participate. Please do this asap so we can find someone to replace you if needed.*
 
-The idea of a data blitz is to keep everything moving very quickly. We'll be on stage just before lunch on Monday 12 from 12:15pm to 12:50pm and we don't want to keep any hungry hungry neuroscientists longer than we have to!
+The idea of a data blitz is to keep everything moving very quickly. We'll be on stage just before lunch on Monday 12 March from 12:15pm to 12:50pm and we don't want to keep any hungry hungry neuroscientists longer than we have to!
 
-I will have a timer that will go off 2 minutes after I've introduced you. You will be stopped midsentence and hustled off stage if you haven't finished your slides.
+I have a timer that will go off 2 minutes after I've introduced you. You will be stopped midsentence and hustled off stage if you haven't finished your slides.
 
 In order to keep everything moving smoothly **I'll compile all the slides into one powerpoint presentation**. Please find attached a template slidedeck (DataBlitzSlides_TEMPLATE.pptx). I hope it's self explanatory. The long and short of it is I'd like you to **return to me a title slide and two slides that make up your presentation**.
 
@@ -35,7 +35,7 @@ Thank you! I'm really excited to hear more about your research. The presentation
 
 Kirstie
 
-PS: I'm currently taking part in the [UCU industrial action](https://www.ucu.org.uk/strike-action) which means I will not reply to emails on strike days (currently scheduled for Monday to Thursday next week). I will be working on Friday 9 March, and if the strike is still on during the conference Dervila will host the Data Blitz for me.
+PS: I'm taking part in the [UCU industrial action](https://www.ucu.org.uk/strike-action) which means I will not reply to emails on strike days (currently scheduled for Monday to Thursday next week). I will be working on Friday 9 March, and if the strike is still on during the conference Dervila will host the Data Blitz for me.
 
 The conference is not held on University of Cambridge property, it is held at Robinson College, so you will not be asked to cross a picket line to take part in CNS2018. I've chosen to withdraw my labour in hosting the Data Blitz on a strike day, but I REALLY hope the talks next week will be successful and that I'll be able to introduce you (and chase you off stage if you go over time)!
 

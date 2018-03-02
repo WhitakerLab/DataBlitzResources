@@ -31,7 +31,7 @@ The data blitz requires you to present a summary of your research **in just two 
 
 The idea of a data blitz is to keep everything moving very quickly. We'll be on stage on `[DAY]` from `[START TIME]` to `[FINISH TIME]` and we don't want to keep any `[ATTENDEES]` longer than we have to!
 
-I will have a timer that will go off 2 minutes after I've introduced you. You will be stopped midsentence and hustled off stage if you haven't finished your slides.
+I have a timer that will go off 2 minutes after I've introduced you. You will be stopped midsentence and hustled off stage if you haven't finished your slides.
 
 In order to keep everything moving smoothly **I'll compile all the slides into one powerpoint presentation**. Please find attached a template slidedeck (DataBlitzSlides_TEMPLATE.pptx). I hope it's self explanatory. The long and short of it is I'd like you to **return to me a title slide and two slides that make up your presentation**.
 
