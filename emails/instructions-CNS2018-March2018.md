@@ -27,7 +27,7 @@ So, here's your to do list:
 * Confirm that you'll take part in the Data Blitz
 * Download the template slidedeck attached here (**DataBlitzSlides_TEMPLATE.pptx**) and rename as **DataBlitzSlides_[YOUR-NAME].pptx** (eg: DataBlitzSlides_Kirstie-Whitaker.pptx)
 * Edit the slides to best show off your awesome research
-* Send the slides back to me at kw401@cam.ac.uk BEFORE **Friday 9 March at 12noon**. (Earlier if you have videos!)
+* Send the slides back to me at kw401@cam.ac.uk and Dervila at dg248@cam.ac.uk BEFORE **Friday 9 March at 12noon**. (Earlier if you have videos!)
 * Practise your presentation to keep it to time
 * Have fun at CNS 2018!
 
@@ -35,4 +35,8 @@ Thank you! I'm really excited to hear more about your research. The presentation
 
 Kirstie
 
-PS: I'm currently taking part in the UCU industrial action which means I will not reply to emails on strike days (currently scheduled for Monday to Thursday next week). I will be working on Friday 9 March, and I may have to find someone to host for me on Monday 12 March if the strike is still on during the conference. If you have any urgent questions you can cc Dervila Glynn and she will endeavor to answer them.
+PS: I'm currently taking part in the [UCU industrial action](https://www.ucu.org.uk/strike-action) which means I will not reply to emails on strike days (currently scheduled for Monday to Thursday next week). I will be working on Friday 9 March, and if the strike is still on during the conference Dervila will host the Data Blitz for me.
+
+The conference is not held on University of Cambridge property, it is held at Robinson College, so you will not be asked to cross a picket line to take part in CNS2018. I've chosen to withdraw my labour in hosting the Data Blitz on a strike day, but I REALLY hope the talks next week will be successful and that I'll be able to introduce you (and chase you off stage if you go over time)!
+
+If you have any questions on strike days please cc Dervila Glynn (dg248@cam.ac.uk) in your email and she will be able to answer them.
