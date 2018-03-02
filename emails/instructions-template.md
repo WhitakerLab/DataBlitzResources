@@ -27,7 +27,7 @@ Your abstract has been selected as one of `[NUMBER OF BLITZ PRESENTATIONS]` to f
 
 The data blitz requires you to present a summary of your research **in just two minutes**. It is a really fun session and it will encourage conference participants to come to your poster. Once they're there, you'll have a great opportunity to tell everyone (including the poster judges) about your research.
 
-The first thing to do is **reply to this email** to let me know that you're able to participate. Please do this asap so we can find someone to replace you if needed.
+*The first thing to do is **reply to this email** to let me know that you're able to participate. Please do this asap so we can find someone to replace you if needed.*
 
 The idea of a data blitz is to keep everything moving very quickly. We'll be on stage on `[DAY]` from `[START TIME]` to `[FINISH TIME]` and we don't want to keep any `[ATTENDEES]` longer than we have to!
 

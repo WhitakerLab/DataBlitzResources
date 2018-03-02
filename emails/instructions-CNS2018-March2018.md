@@ -8,7 +8,7 @@ Your abstract has been selected as one of 12 to feature in the early career rese
 
 The data blitz requires you to present a summary of your research **in just two minutes**. It is a really fun session and it will encourage conference participants to come to your poster. Once they're there, you'll have a great opportunity to tell everyone (including the poster judges) about your research.
 
-The first thing to do is **reply to this email** to let me and Dervila Glynn know that you're able to participate. Please do this asap so we can find someone to replace you if needed.
+*The first thing to do is **reply to this email** to let me and Dervila Glynn know that you're able to participate. Please do this asap so we can find someone to replace you if needed.*
 
 The idea of a data blitz is to keep everything moving very quickly. We'll be on stage just before lunch on Monday 12 from 12:15pm to 12:50pm and we don't want to keep any hungry hungry neuroscientists longer than we have to!
 
@@ -24,7 +24,7 @@ I'll send the running order around with the completed slides in the evening of S
 
 So, here's your to do list:
 
-* Please confirm that you'll take part if you haven't already
+* Confirm that you'll take part in the Data Blitz
 * Download the template slidedeck attached here (**DataBlitzSlides_TEMPLATE.pptx**) and rename as **DataBlitzSlides_[YOUR-NAME].pptx** (eg: DataBlitzSlides_Kirstie-Whitaker.pptx)
 * Edit the slides to best show off your awesome research
 * Send the slides back to me at kw401@cam.ac.uk BEFORE Friday 9 March at 12noon. (Earlier if you have videos!)
