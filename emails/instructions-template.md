@@ -1,12 +1,32 @@
-*SUBJECT: Instructions for participation in the **[NAME OF CONFERENCE]** data blitz*
+## Template email containing instructions for participation in the data blitz
+
+Before you send it out you'll need to update the template with the following information:
+
+* `NAME OF CONFERENCE`
+* `DEADLINE DATE` - when you'd like the slides returned by
+* `DAY` of the data blitz
+* `START TIME` of the data blitz
+* `FINISH TIME` of the data blitz
+* `ATTENDEES` - what you call your attendees
+  * The context is a sentence saying "we don't want to keep any `[ATTENDEES]` longer than we have to".
+  * Eg1: "we don't want to keep any neuroscientists longer than we have to"
+  * If in doubt, choose "delegates", or "participants".
+* `DAY BEFORE THE BLITZ` - when you'll send around the compiled slides
+  * It doesn't have to be the day before, but if you're turning around the slides in a short period of time then it makes sense to give yourself a little wiggle room.
+* `COORDINATOR'S EMAIL` - to whom the participants should send their slides
+* `COORDINATOR'S NAME` - so you can sign off the email!
+
+### Template email
+
+*SUBJECT: Congratulations on being selected for the **[NAME OF CONFERENCE]** data blitz* | Instructions for participation | DEADLINE `[DEADLINE DATE]`
 
 Hi everyone!
 
-Congratulations on being selected for the **[NAME OF CONFERENCE]** Data Blitz!
+Congratulations on being selected for the `[NAME OF CONFERENCE]` Data Blitz!
 
-Thank you to everyone who has already confirmed whether they can present as part of the data blitz (**[N CONFIRMED]** of **[N INVITED]** so far). **Please keep those confirmations coming** :)
+The first thing to do is **reply to this email** to let me know that you're able to participate. Please do this asap so we can find someone to replace you if needed.
 
-The idea of a data blitz is to keep everything moving very quickly. We'll be on stage on **[DAY]** from **[START TIME]** to **[FINISH TIME]** and we don't want to keep any **[ATTENDEES]** longer than we have to!
+The idea of a data blitz is to keep everything moving very quickly. We'll be on stage on `[DAY]` from `[START TIME]` to `[FINISH TIME]` and we don't want to keep any `[ATTENDEES]` longer than we have to!
 
 I will have a timer that will go off 2 minutes after I've introduced you. You will be stopped midsentence and hustled off stage if you haven't finished your slides.
 
@@ -16,17 +36,17 @@ Please be very careful when embedding videos. They *often* do not work. If you r
 
 Animations are ok and should transfer easily. Please do not change the size or the master slide in the file I've sent so that all of your presentations fit neatly into one deck.
 
-I'll send the running order around with the completed slides on **[DAY BEFORE THE BLITZ]**. It will be alphabetical order by last name. In that email I'll also include some instructions for where to stand in order to keep the presentations moving smoothly. (It will be easier for me to plan once I've seen the space!) It won't be complicated, just be in line at the side of the stage in the correct order and walk up when it's your turn :)
+I'll send the running order around with the completed slides on `[DAY BEFORE THE BLITZ]`. It will be alphabetical order by last name. In that email I'll also include some instructions for where to stand in order to keep the presentations moving smoothly. (It will be easier for me to plan once I've seen the space!) It won't be complicated, just be in line at the side of the stage in the correct order and walk up when it's your turn :)
 
 So, here's your to do list:
 
 * Please confirm that you'll take part if you haven't already
 * Download the template slidedeck attached here (**DataBlitzSlides_TEMPLATE.pptx**) and rename as **DataBlitzSlides_[YOUR-NAME].pptx** (eg: DataBlitzSlides_Kirstie-Whitaker.pptx)
 * Edit the slides to best show off your awesome research
-* Send the slides back to me at kw401@cam.ac.uk BEFORE [DEADLINE DAY] at 12noon. (Earlier if you have videos!)
+* Send the slides back to me at `[COORDINATOR'S EMAIL]` BEFORE `[DEADLINE DAY]` at 12noon. (Earlier if you have videos!)
 * Practise your presentation to keep it to time
-* Have fun on **[DAYS OF CONFERENCE]**
+* Have fun at `[NAME OF CONFERENCE]`
 
 Thank you! I'm really excited to hear more about your research. The presentations at previous Data Blitzes have received uniformly positive feedback, mostly from senior members of the audience. I'm confident you're going to shine just as brightly at this event :)
 
-Kirstie
+`[COORDINATOR'S NAME]`
