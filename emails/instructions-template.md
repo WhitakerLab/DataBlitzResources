@@ -46,7 +46,7 @@ So, here's your to do list:
 * Please confirm that you'll take part if you haven't already
 * Download the template slidedeck attached here (**DataBlitzSlides_TEMPLATE.pptx**) and rename as **DataBlitzSlides_[YOUR-NAME].pptx** (eg: DataBlitzSlides_Kirstie-Whitaker.pptx)
 * Edit the slides to best show off your awesome research
-* Send the slides back to me at `[COORDINATOR'S EMAIL]` BEFORE `[DEADLINE DAY]` at 12noon. (Earlier if you have videos!)
+* Send the slides back to me at `[COORDINATOR'S EMAIL]` BEFORE **`[DEADLINE DAY]` at 12noon**. (Earlier if you have videos!)
 * Practise your presentation to keep it to time
 * Have fun at `[NAME OF CONFERENCE]`
 
