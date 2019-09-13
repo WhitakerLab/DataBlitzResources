@@ -29,8 +29,11 @@ Everything you need to run a kickass data blitz at your event.
   * `COORDINATOR'S NAME` - so you can sign off the email!
 4. Send the email!
   * Don't forget to **attach the [template slides](/templates/DataBlitzSlides_TEMPLATE.pptx)**
-
-**🚧 Still under construction 🚧**
+5. Collect the slides together from the presenters into one combined slide deck. Send these slides to the presenters for them to check.
+6. Edit and send the [day before email](/emails/day-before-template.md) with the appropriate information for your event.
+7. Use the [host on the day](/guides/guide-host-on-the-day.md) guide to coordinate the presentations.
+  Remember to keep everyone strictly to time.
+8. Enjoy! 🚀 ✨
 
 ## Contributors
 
@@ -42,7 +45,7 @@ The slides contain two examples and we're very grateful to František Váša and
 >
 > For more information about the project presented in František’s DataBlitz slides, please see the now published manuscript ([doi: 10.1093/cercor/bhx249](https://academic.oup.com/cercor/article/28/1/281/4566607)), or for more information on his research, visit his [Google Scholar profile](https://scholar.google.co.uk/citations?user=wnLacTkAAAAJ&hl=en).
 
-> James has been based at the Department of Pharmacology, University of Cambridge since 2016 and is focussed on understanding the molecular basis of visceral sensation, specifically how we sense pain from our gastrointestinal tract in health and disease. 
+> James has been based at the Department of Pharmacology, University of Cambridge since 2016 and is focussed on understanding the molecular basis of visceral sensation, specifically how we sense pain from our gastrointestinal tract in health and disease.
 >
 > For more information about the project that underpins these DataBlitz slides please see the now published manuscript (doi: [10.1136/gutjnl-2017-315631](http://gut.bmj.com/content/early/2018/02/26/gutjnl-2017-315631)) or for more general information about his research visit https://www.phar.cam.ac.uk/research/Smith/researchinterests.
 

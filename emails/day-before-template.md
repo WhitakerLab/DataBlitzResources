@@ -27,22 +27,32 @@ I've checked that everyone's slides look good on my laptop - all the animations 
 
 Some of you had changed your title slides: I've reformatted them back to the template style now. This is partly to make the presentation look really cohesive but mostly just my personal compulsion to have everything just so!
 
-
 **Logistics**
-
-You will not have a lapel microphone. You'll present from the lectern which has its own static microphone.
 
 At the end of `[PREVIOUS SPEAKER]`'s talk please come down to the `[LINE UP LOCATION]` and line up in alphabetical order by last name.
 
-I will give a very brief introduction and then you'll get started. As I'm introducing you please come up to the lectern. I'll start the 2 minute timer after I've read your name and you're off :)
+I will give a very brief introduction and then you'll get started.
+As I'm introducing you please come up to the lectern.
+I'll start the 2 minute timer after I've read your name and you're off :)
 
-Once you've finished your presentation please head back off to the same side of the stage. Please don't go back to your seat as we don't want to distract the audience from the next presentation.
+Once you've finished your presentation please head back off to the same side of the stage.
+Please don't go back to your seat as we don't want to distract the audience from the next presentation.
 
+**Projection**
+
+You will not have a lapel microphone.
+You'll present from the lectern which has its own static microphone.
+
+Remember to speak into the microphone.
+It is very tempting to turn away from it to look at the screen, but that can make it difficult for audience members to catch your words.
 
 **Timing**
 
-You will only have 2 minutes. You'll be stopped mid-sentence if you over run! Be prepared!
+You will only have 2 minutes.
+You'll be stopped mid-sentence if you over run!
+Be prepared!
 
+If you remember, please advance the slide at the end of your talk so that the title slide shows for the next speaker as they're walking up on stage to start their presentation.
 
 **Have fun!**
 
